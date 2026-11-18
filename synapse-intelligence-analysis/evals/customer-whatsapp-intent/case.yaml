@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: customer-whatsapp-intent
+expected_outcome: |
+  Response in Indonesian gives at least three distinct readings of the customer's intent, identifies which evidence discriminates between them, separates observation from inference, gives a calibrated judgment with confidence stated separately, and recommends specific questions/checks before replying.

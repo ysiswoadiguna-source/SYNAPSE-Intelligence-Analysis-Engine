@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: supplier-scenarios
+expected_outcome: |
+  Response builds 3-4 genuinely different 12-month scenarios from the two drivers, each with triggers, indicators and counter-indicators, actor responses (supplier, competitors, BUMN customers, regulator), and decision implications; makes clear these are scenarios not predictions, and surfaces linchpin assumptions and unknowns rather than inventing facts about the regulation.

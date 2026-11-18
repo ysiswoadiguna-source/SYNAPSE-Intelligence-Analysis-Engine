@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: stress-test-competitor
+expected_outcome: |
+  Response stress-tests the user's predatory-pricing belief: generates real alternative explanations, flags centralized-direction/overestimating-own-importance or similar biases with corrections, examines diagnosticity of each evidence item, identifies linchpin assumptions, and states what would confirm or disconfirm each hypothesis.
